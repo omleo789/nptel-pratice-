@@ -1,2 +1,2 @@
-# nptel-pratice-
- a site to practice ur nptel courses
+# nptl-pratice-
+ a site to practice ur nptl courses
